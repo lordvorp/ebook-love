@@ -1,0 +1,14 @@
+.booklove-meta-list {
+	margin: 0.5em 0 1em;
+	padding: 0;
+	list-style: none;
+}
+
+.booklove-meta-list li {
+	margin: 0.25em 0;
+}
+
+.booklove-meta label {
+	display: block;
+	font-weight: 600;
+}

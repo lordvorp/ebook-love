@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+vendor/
+node_modules/
+.idea/
+.vscode/
+*.swp
+*.swo
+/tests/tmp/
+_recovered_from_idb/
+_extracted_idb_snippets.txt
+_cloud_cache_transcript.txt
+_extracted_agentkv_texts.txt
+_extracted_idb_chat.txt
+_recovered_from_idb/
